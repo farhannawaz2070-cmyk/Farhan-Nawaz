@@ -9,7 +9,7 @@ I'm **Farhan Nawaz**, a passionate **MERN Stack Web Developer**. I love building
 - 👯 I'm looking to collaborate on **open-source projects** and **AI-powered web applications**
 - 🤔 I'm looking for help with **AI model deployment in production** and **scalable microservices architecture**
 - 💬 Ask me about **React, Node.js, Express, MongoDB, AI integration in web apps**, and **REST APIs**
-- 📫 How to reach me: [naumanbhatti053@gmail.com](mailto:farhannawaz2070@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/farhan-nawaz-b5a248232/)
+- 📫 How to reach me: [farhannawaz2070@gmail.com](mailto:farhannawaz2070@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/farhan-nawaz-b5a248232/)
 - ⚡ Fun fact: I enjoy turning complex UI designs into clean and reusable components, and I'm now exploring how AI can enhance user experiences!
 
 ---
